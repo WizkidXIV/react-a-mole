@@ -1,0 +1,13 @@
+.moleHill {
+  width: 30vw;
+  height: 30vw;
+  background-image: url('./images/molehill.png');
+  background-size: cover;
+}
+
+.mole {
+  width: 5vw;
+  height: 5vw;
+  background-image: url('./images/mole.png');
+  background-size: cover;
+}
